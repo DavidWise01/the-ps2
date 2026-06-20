@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Graphics Synthesizer
+node PS2 · PS2 · ⟦The Graphics Synthesizer:PS2:953341⟧
+
+WHO   — The Graphics Synthesizer — fill rate over features · electrical
+WHAT  — fill rate over features · electrical
+WHERE — PS2 · SONY PLAYSTATION 2 · PS2 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A GPU with simple features but enormous fill rate and on-chip video RAM bandwidth — brute force that, fed by the vector units, drew a generation's games.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  fill rate over features · electrical
+
+spoken token : morn-lom-xem   ·   hex : 953341
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

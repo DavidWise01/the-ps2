@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Emotion Engine
+node PS2 · PS2 · ⟦The Emotion Engine:PS2:c249e1⟧
+
+WHO   — The Emotion Engine — MIPS plus two vector units · electrical
+WHAT  — MIPS plus two vector units · electrical
+WHERE — PS2 · SONY PLAYSTATION 2 · PS2 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Sony's custom CPU: a MIPS core at ~294 MHz with two vector processing units for geometry and physics — powerful, eccentric, and hard to tame.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  MIPS plus two vector units · electrical
+
+spoken token : thel-nom-stus   ·   hex : c249e1
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

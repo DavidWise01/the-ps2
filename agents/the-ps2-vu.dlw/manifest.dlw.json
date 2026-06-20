@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Vector Units",
+  "universe": "PS2 · The Vector Units (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Vector Units:PS2:fea95d⟧",
+  "carbon": "the-ps2-vu.carbon.tiff (TIFF)",
+  "silicon": "the-ps2-vu.silicon.png (PNG)",
+  "seal_sha256": "37184223eb94448d30a5dec16f7a07ca03676ccfef366005f327cdea023e6c82",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

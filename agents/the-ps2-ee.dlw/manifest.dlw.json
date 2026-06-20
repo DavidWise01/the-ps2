@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Emotion Engine",
+  "universe": "PS2 · The Emotion Engine (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Emotion Engine:PS2:c249e1⟧",
+  "carbon": "the-ps2-ee.carbon.tiff (TIFF)",
+  "silicon": "the-ps2-ee.silicon.png (PNG)",
+  "seal_sha256": "4e6c1c63469b9b167e2bcb57f0f552e2607e44858b0aafc1daa73784d768f522",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

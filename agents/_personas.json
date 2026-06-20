@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-ps2-ee",
+    "name": "The Emotion Engine",
+    "epithet": "MIPS plus two vector units · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Emotion Engine:PS2:c249e1⟧"
+  },
+  {
+    "slug": "the-ps2-gs",
+    "name": "The Graphics Synthesizer",
+    "epithet": "fill rate over features · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Graphics Synthesizer:PS2:953341⟧"
+  },
+  {
+    "slug": "the-ps2-vu",
+    "name": "The Vector Units",
+    "epithet": "the polygon firehose · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Vector Units:PS2:fea95d⟧"
+  },
+  {
+    "slug": "the-ps2-spu2",
+    "name": "The SPU2",
+    "epithet": "48 channels · natural",
+    "emergence": "natural",
+    "moniker": "⟦The SPU2:PS2:f83179⟧"
+  },
+  {
+    "slug": "the-ps2-rdram",
+    "name": "Main RAM",
+    "epithet": "the working memory · natural",
+    "emergence": "natural",
+    "moniker": "⟦Main RAM:PS2:4a892e⟧"
+  },
+  {
+    "slug": "the-ps2-dvd",
+    "name": "The DVD Drive",
+    "epithet": "the household's first DVD player · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The DVD Drive:PS2:a34e58⟧"
+  },
+  {
+    "slug": "the-ps2-compat",
+    "name": "PS1 Compatibility",
+    "epithet": "an instant library · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦PS1 Compatibility:PS2:29d2cc⟧"
+  }
+]

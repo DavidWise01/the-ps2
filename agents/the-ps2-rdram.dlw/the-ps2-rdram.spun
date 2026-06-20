@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of Main RAM
+node PS2 · PS2 · ⟦Main RAM:PS2:4a892e⟧
+
+WHO   — Main RAM — the working memory · natural
+WHAT  — the working memory · natural
+WHERE — PS2 · SONY PLAYSTATION 2 · PS2 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — 32 MB of Rambus DRAM (plus 4 MB on the GPU) — tight by later standards, demanding careful streaming from disc.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the working memory · natural
+
+spoken token : leth-mer-braeth   ·   hex : 4a892e
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

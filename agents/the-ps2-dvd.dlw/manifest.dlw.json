@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The DVD Drive",
+  "universe": "PS2 · The DVD Drive (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The DVD Drive:PS2:a34e58⟧",
+  "carbon": "the-ps2-dvd.carbon.tiff (TIFF)",
+  "silicon": "the-ps2-dvd.silicon.png (PNG)",
+  "seal_sha256": "92c91659ec6964d22c93fe2ce3a3c9fc627f0810a7fc59fdb924303ed0f75754",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

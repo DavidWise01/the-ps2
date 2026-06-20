@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The SPU2",
+  "universe": "PS2 · The SPU2 (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The SPU2:PS2:f83179⟧",
+  "carbon": "the-ps2-spu2.carbon.tiff (TIFF)",
+  "silicon": "the-ps2-spu2.silicon.png (PNG)",
+  "seal_sha256": "6d52bbc614e773ea43554933ac7ce7d7c914be1a56b9b9f08faa8a1fd3662a14",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

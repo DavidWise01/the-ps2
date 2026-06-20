@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Graphics Synthesizer",
+  "universe": "PS2 · The Graphics Synthesizer (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Graphics Synthesizer:PS2:953341⟧",
+  "carbon": "the-ps2-gs.carbon.tiff (TIFF)",
+  "silicon": "the-ps2-gs.silicon.png (PNG)",
+  "seal_sha256": "3637a5327bdea8ef8855a91834a301798e9bb0ac99cd8a5e5e1c4574bdaa5bf6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The SPU2
+node PS2 · PS2 · ⟦The SPU2:PS2:f83179⟧
+
+WHO   — The SPU2 — 48 channels · natural
+WHAT  — 48 channels · natural
+WHERE — PS2 · SONY PLAYSTATION 2 · PS2 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — The Sound Processing Unit 2: 48 channels of sample playback with effects — a direct, beefier descendant of the PS1's SPU.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  48 channels · natural
+
+spoken token : xen-ver-brae   ·   hex : f83179
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
